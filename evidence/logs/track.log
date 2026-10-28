@@ -1,5 +1,0 @@
-WARNING ⚠️ 'half' is deprecated and will be removed in the future. Use 'quantize' instead.
-track ok {'tracker': 'bytetrack.yaml', 'frames': 11, 'wall_s': 4.94, 'fps': 2.2, 'unique_ids': 4, 'note': 'sem ground truth: HOTA/IDF1 NOT_TESTED', 'measurement_kind': 'measured', 'lib': 'track', 'status': 'ok'}
-WARNING ⚠️ 'half' is deprecated and will be removed in the future. Use 'quantize' instead.
-track ok {'tracker': 'botsort.yaml', 'frames': 11, 'wall_s': 1.01, 'fps': 10.9, 'unique_ids': 4, 'note': 'sem ground truth: HOTA/IDF1 NOT_TESTED', 'measurement_kind': 'measured', 'lib': 'track', 'status': 'ok'}
-track done {'total_s': 14.2, 'lib': 'track', 'status': 'done'}

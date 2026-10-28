@@ -1,0 +1,7 @@
+| lib | failed | ok |
+|---|---|---|
+| detectron2 | 3 | 1 |
+| detectron2_faster_rcnn | 0 | 1 |
+| grounding_dino | 1 | 7 |
+| maskrcnn_torchvision | 0 | 7 |
+| sam2 | 2 | 7 |

@@ -1,3 +1,5 @@
+# Per-library timing functions: YOLO11 grid, ByteTrack/BoT-SORT, SAM 2, Grounding DINO, Mask R-CNN, SDXL-Turbo, LTX-Video, FFmpeg, speech. One JSON line per run.
+# Original harness script, copied unmodified apart from this header. Comments inside may be in Portuguese.
 """Bench das bibliotecas que dependem de GPU. Cada subcomando instala (se preciso), mede e escreve 1 JSON por linha em OUT/libs.jsonl.
 Falha/incompatibilidade vira registro failed/incompatible com o log; nunca vira numero inventado."""
 import glob

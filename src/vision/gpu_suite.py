@@ -1,3 +1,5 @@
+# GPU sandbox suite: Detectron2 on real COCO images, faster-whisper, ComfyUI, llama.cpp, OpenVoice.
+# Original harness script, copied unmodified apart from this header. Comments inside may be in Portuguese.
 """Testes de bibliotecas que dependem de GPU (cada uma em venv proprio, timeout, metricas). Reusa o runner do sandbox_suite.
 uso: python gpu_suite.py [ids...]"""
 import sys
