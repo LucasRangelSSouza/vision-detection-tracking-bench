@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Vision: detection, tracking and segmentation bench"
+authors:
+  - family-names: Rangel
+    given-names: Lucas
+type: software
+date-released: 2026-10-28
